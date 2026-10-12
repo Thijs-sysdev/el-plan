@@ -1,0 +1,23 @@
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Python
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+
+# Node
+node_modules/
+.next/
+
+# FastF1 cache
+ff1_cache/
+.fastf1_cache/
+
+# OS / editor
+.DS_Store
+Thumbs.db
+.vscode/
